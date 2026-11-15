@@ -1,0 +1,6 @@
+/_build/
+/deps/
+/cover/
+/data/
+*.ez
+.DS_Store
